@@ -5,7 +5,7 @@ import Header from '../Header/Header';
 const Home = () => {
     return (
         <div>
-            <h1>hello from home</h1>
+            <h1>hello from office</h1>
         </div>
     );
 };
